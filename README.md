@@ -1,4 +1,5 @@
 # yash
-This is my first Git Repository
-Author- Yash Sanjay Patil
+This is my first Git Repository.
+<br>
+Author- Yash Sanjay Patil.
 
